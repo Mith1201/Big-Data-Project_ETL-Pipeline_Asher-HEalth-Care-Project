@@ -6,3 +6,6 @@
 
 ## Methodology
 ![image](https://user-images.githubusercontent.com/102762042/174682996-82518352-e8f1-4328-8ec1-14af20ea5f1e.png)
+
+## Coding level 
+![image](https://user-images.githubusercontent.com/102762042/174683912-c0a64ae8-c761-4aae-b3db-673b7ec87493.png)
