@@ -8,5 +8,5 @@
 ![image](https://user-images.githubusercontent.com/102762042/174682996-82518352-e8f1-4328-8ec1-14af20ea5f1e.png)
 
 ## Coding level ETL Pipeline
-### Node cluster is created in Google cloud platform and all coding and datsets are transfered to HDFS
+### Node cluster is created in Google cloud platform and all coding scripts and datsets are transfered to HDFS
 ![image](https://user-images.githubusercontent.com/102762042/174683912-c0a64ae8-c761-4aae-b3db-673b7ec87493.png)
